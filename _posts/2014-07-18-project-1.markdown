@@ -6,6 +6,6 @@ img: Note.png
 alt: image-alt
 project-date: April 2014
 category: Paper Publications
-description: The following are my paper publications so far:<br>1. Did you really hack a nuclear power plant? An industrial control mobile honeypot - <a href="https://www.researchgate.net/profile/Emmanouil_Vasilomanolakis/publication/287800368_Did_you_really_hack_a_nuclear_power_plant_An_industrial_control_mobile_honeypot/links/5679562a08aeaf87ed8b051f.pdf">Paper Link</a>
+description: The following are my paper publications so far:<br>1. Did you really hack a nuclear power plant? An industrial control mobile honeypot <br> <a href="https://www.researchgate.net/profile/Emmanouil_Vasilomanolakis/publication/287800368_Did_you_really_hack_a_nuclear_power_plant_An_industrial_control_mobile_honeypot/links/5679562a08aeaf87ed8b051f.pdf">Paper Link</a> <br> 2. Multi-stage attack detection and signature generation with ICS honeypots <br> <a href = "https://ieeexplore.ieee.org/abstract/document/7502992">Paper Link</a>
 
 ---
