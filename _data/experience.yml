@@ -1,0 +1,12 @@
+# Experience template
+- layout: left
+  company: acarda GmbH
+  link: https://www.acarda.de/en/home-eng/
+  job_title: Head of IT, Senior Consultant
+  dates: May 2016 - November 2019
+  quote: >
+   acarda is one of the leading international service and solution providers for banks, insurance companies, asset managers and fund administrators
+  description: | # this will include new lines to allow paragraphs
+    - Design, implementation and maintenance of IT Infrastructure for acarda SaaS applications
+    - Security Consultant and implementation of acarda SaaS applications
+    - Developer

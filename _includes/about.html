@@ -1,25 +1,13 @@
- <!-- About Section -->
-    <section class="success" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>About</h2>
-                    <hr class="star-light">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>I am currently pursuing my PhD at Aalborg University, Copenhagen. My reserch areas include IoT Security, Honeypots and Intrusion Detection Systems.</p>
-                </div>
-                <div class="col-lg-4">
-                    <p>I am always looking for interesting topics and ideas in the area of information security. Please feel free to contact me!</p>
-                </div>
-                <!--
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
-                    </a>
-                </div> -->
-            </div>
-        </div>
-    </section>
+<div class="container intro-container">
+  <h3>{{ site.about_title | default: "About Me" }}</h3>
+  <div class="row clearfix">
+    {%- if site.about_profile_image -%}
+      <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+        <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
+      </div>
+    {%- endif -%}
+    <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      {{ site.about_content | strip | markdownify }}
+    </div>
+  </div>
+</div>

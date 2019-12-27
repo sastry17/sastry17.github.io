@@ -1,63 +1,104 @@
-# Site settings
-title: Shreyas Srinivasa
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Shreyas Srinivasa
+title: PhD Fellow, Aalborg University Copenhagen
 email: shreyas.srinivasa@outlook.com
-url: https://sastry17.github.io
-description: "Shreyas Srinivasa - sastry17"
-keywords: "sastry17, shreyas srinivasa"
-skills: "Network Engineer - PhD Fellow  - Security Enthusiast"
-meta_author: Srinivasa Shreyas
+#phone: Your phone number (optional)
+website: https://sastry17.github.io
 
-# Google webmaster tools
-google_verify:
+darkmode: false
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Social links
+#twitter_username: jekyllrb
+github_username:  sastry17
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: shreyas-srinivasa-47038b13
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# Additional icon links
+additional_links:
+- title: Google Scholar
+  icon: fa-google
+  url: https://scholar.google.com/citations?user=VbqqmJQAAAAJ&hl=en&oi=sra
+- title: ResearchGate
+  icon: fa-researchgate
+  url: https://www.researchgate.net/profile/Shreyas_Srinivasa   
+- title: CV
+  icon: fa-file-alt
+  url: http://localhost:4000/images/CV_Shreyas_Srinivasa_2019.pdf
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I am a PhD Fellow at [Aalborg University, Copenhagen](https://www.en.cph.aau.dk/) . I work in the area of <mark>Network Security</mark>. My research topics include Intrusion Detection Systems, Honeypots, IoT Security and Security Testing (Penetration Testing) Frameworks. 
 
-# Footer settings
-footer:
-  copyright: Shreyas Srinivasa
-  location: Copenhagen, Denmark
-  social: Around the Web
-  credits: Credits
+  [Paper Publications](https://scholar.google.com/citations?user=VbqqmJQAAAAJ&hl=en&oi=sra)
+  1. Multi-Stage attack Detection and Signature generation with ICS honeypots
+  2. Did u really hack a nuclear power plant? An industrial control mobile honeypot
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: linkedin
-    url: https://www.linkedin.com/in/shreyas-srinivasa-47038b13/
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/shrey17
-  - title: github
-    url: http://github.com/sastry17
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: Aalborg University
-  - line: Copenhagen, Denmark
+# Publications
+ # publications_title: Paper Publications
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  I am also working on some personal projects that involve a payment framework for apps used by the blind.
+  I love listening to music and i also play a lot of games (PS4 and PC). I also do hacker rank challenges when i am bored or want to take some time off my research.
+  I love reading books (non fiction)
+
+# Footer
+footer_show_references: true
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
