@@ -108,14 +108,14 @@ defaults:
       author_profile: true
   # _publications
   - scope:
-      path: ""
+      path: "_pages"
       type: publications
     values:
       layout: single
       author_profile: true
 
 
-      
+
 category_archive:
   type: liquid
   path: /categories/
