@@ -102,7 +102,7 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
