@@ -92,10 +92,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  opensource:
     output: true
     permalink: /:collection/:path/
-  talks:
+  cv:
     output: true
     permalink: /:collection/:path/
 
