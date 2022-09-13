@@ -1,10 +1,16 @@
 main:
 
+  - title: "Bio"
+    url: /bio/
+
   - title: "Opensource"
     url: /opensource/
 
   - title: "Publications"
     url: /publications/
+     
+  - title: "Awards"
+    url: /awards/
 
   - title: "CV"
     url: /posts/
