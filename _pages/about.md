@@ -1,8 +1,19 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Shreyas Srinivasa"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - about/
+  - about.html
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I am a Ph.D. Fellow at the Cybersecurity Research Group at Aalborg University, Denmark. My topics of interest include Cyber Deception, Threat Intelligence, and Internet Security Measurements. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I work primarily with honeypots to gather the threat landscape and understand attacker behavior. Other than honeypots, I scan the Internet to find gaps in the deployment and configuration of systems. I believe that most security incidents are caused either due to improper testing or misconfigured deployments.  
+
+If my work interests you or you would like to collaborate,  please feel free to contact me! 
+
+## News
+
+**02-09-2022** Our paper "Interaction Matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots" is accepted at ACSAC 2022
