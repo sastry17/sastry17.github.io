@@ -101,6 +101,12 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
+  bio:
+    output: true
+    permalink: /:collection/:path/  
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
