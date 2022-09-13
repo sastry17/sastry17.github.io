@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: publications/
 title: "Publications"
 ---
 
@@ -16,8 +16,6 @@ IEEE European Symposium on Security and Privacy, WACCO
 [Deceptive directories and “vulnerable” logs: a honeypot study of the LDAP and log4j attack landscape](https://ieeexplore.ieee.org/document/9799363)
 S Srinivasa, JM Pedersen, E Vasilomanolakis
 IEEE EuroS&P Workshop on Active Defense and Deception (AD&D)
-
-
 
 \[2021\]
 
