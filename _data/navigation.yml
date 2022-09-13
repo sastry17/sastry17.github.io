@@ -1,6 +1,6 @@
 main:
 
-  - title: "Bio\(ext\.\)"
+  - title: "Bio"
     url: /bio/
 
   - title: "Opensource"
@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: /publications/
      
-  - title: "Awards\/Talks"
+  - title: "Awards/Talks"
     url: /awards/
 
   - title: "Contact"
