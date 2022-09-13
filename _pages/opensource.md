@@ -1,5 +1,5 @@
 ---
-permalink: opensource/
+permalink: /opensource/
 title: "Opensource"
 ---
 

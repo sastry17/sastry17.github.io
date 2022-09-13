@@ -1,4 +1,4 @@
 ---
-permalink: awards/
+permalink: /awards/
 title: "Awards/Talks"
 ---
