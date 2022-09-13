@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a Ph.D. Fellow at the [Cybersecurity Research Group](https://www.cyber.aau.dk/research/) at Aalborg University, Denmark. My topics of interest include Cyber Deception, Threat Intelligence, and Internet Security Measurements. 
 
-I work primarily with honeypots to gather the threat landscape and understand attacker behavior. Other than honeypots, I periodically scan the Internet to find gaps in the deployment and configuration of systems. I believe that most security incidents are caused either due to improper security testing or misconfigured deployments. 
+I work primarily with honeypots to gather the threat landscape and understand attacker behavior. Other than honeypots, I periodically scan the Internet to find gaps in the deployment and configuration of systems. I believe that most security incidents are caused either due to improper security testing or misconfigured deployments. My current interest revolves around Counter Cyber Deception techniques, where I try to find methods to detect deceptive cyber entities used as defensive strategies. 
 
 I also try to contribute to [opensource-projects](https://sastry17.github.io/opensource/) (GSoC), mostly related to honeypots and system fingerprinting. If my work interests you or you would like to collaborate,  please feel free to contact me! 
 
