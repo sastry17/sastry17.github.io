@@ -1,4 +1,4 @@
 ---
-permalink: bio/
-title: "Bio"
+permalink: /bio/
+title: "Bio(ext.)"
 ---
