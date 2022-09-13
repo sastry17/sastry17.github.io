@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Shreyas Srinivasa"
-  avatar : "https://github.com/sastry17/sastry17.github.io/blob/master/assets/images/bio-photo.jpeg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "shreyas_srinivasa"
