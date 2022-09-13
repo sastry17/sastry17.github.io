@@ -1,6 +1,6 @@
 main:
 
-  - title: "Bio"
+  - title: "Bio(ext\.)"
     url: /bio/
 
   - title: "Opensource"
