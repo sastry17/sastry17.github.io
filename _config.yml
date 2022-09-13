@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shreyas Srinivasa"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. Fellow, Aalborg University, Copenhagen, Denmark"
   links:
     - label: "shreyas_srinivasa"
       icon: "fas fa-fw fa-link"
