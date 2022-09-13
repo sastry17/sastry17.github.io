@@ -1,8 +1,14 @@
 main:
-  - title: "CV"
-    url: /posts/
+
+  - title: "Opensource"
+    url: /opensource/
+
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /posts/
+
 #  - title: "Tags"
 #    url: /tags/
 # - title: "About"
