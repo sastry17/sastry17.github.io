@@ -8,7 +8,7 @@ redirect_from:
   - about.html
 ---
 
-><span style="font-size:12px">
+<span style="font-size:12px">
 
 Hi! I am a Ph.D. Fellow at the [Cybersecurity Research Group](https://www.cyber.aau.dk/research/) at Aalborg University, Denmark. My topics of interest include Cyber Deception, Threat Intelligence, and Internet Security Measurements. 
 
