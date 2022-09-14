@@ -8,7 +8,7 @@ redirect_from:
   - about.html
 ---
 
-<span style="font-size:12px">
+
 
 Hi! I am a Ph.D. Fellow at the [Cybersecurity Research Group](https://www.cyber.aau.dk/research/) at Aalborg University, Denmark. My topics of interest include Cyber Deception, Threat Intelligence, and Internet Security Measurements. 
 
@@ -22,4 +22,3 @@ I also try to contribute to [opensource-projects](https://sastry17.github.io/ope
 
 **02-09-2022** Our paper "Interaction Matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots" is accepted at ACSAC 2022
 
-</span>
