@@ -1,4 +1,4 @@
 ---
 permalink: /bio/
-title: "Bio\(ext\.\)"
+title: "Bio"
 ---
