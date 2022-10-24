@@ -5,6 +5,14 @@ title: "Publications"
 
 \[2022\]
 
+[Interaction matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots](https://www.acsac.org/2022/program/papers/)
+S Srinivasa, JM Pedersen, E Vasilomanolakis
+ACM ACSAC 2022 (Contact me for pre-print)
+
+[Honeysweeper: Towards stealthy Honeytoken fingerprinting techniques](https://nordsec2022.ru.is/#accepted-papers)
+Mohamed Msaad, Shreyas Srinivasa, Mikkel M. Andersen, David H. Audran, Charity Uche Orji G and Emmanouil Vasilomanolakis.
+NordSec 2022 (Contact me for pre-print)
+
 [A decentralized honeypot for IoT Protocols based on Android devices](https://link.springer.com/article/10.1007/s10207-022-00605-7)
 I Lygerou, S Srinivasa, E Vasilomanolakis, G Stergiopoulos, D Gritzalis
 International Journal of Information Security, 1-12
