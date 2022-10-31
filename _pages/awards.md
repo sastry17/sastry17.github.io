@@ -16,3 +16,9 @@ Proceedings of the 21st ACM Internet Measurement Conference, 195-215
 
 
 ## Talks
+
+
+[Black Hat Europe - Arsenal 2021 (Virtual Event)](https://www.blackhat.com/eu-21/arsenal/schedule/index.html#riotpot-a-modular-hybrid-interaction-iotot-honeypot-24800)
+
+[Black Hat Europe - Arsenal 2020 (Virtual Event)](https://www.youtube.com/watch?v=uMR76HTm9M0)
+
