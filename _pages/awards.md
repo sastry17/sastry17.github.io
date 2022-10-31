@@ -6,9 +6,11 @@ title: "Awards/Talks"
 ## Awards
 
 \[2022\]
+
 Received Scholarship from Otto Mønsteds Fond  for ACSAC 2022 Conference Participation
 
 \[2021\]
+
 Received Scholarship from Reinholdt W. Jorck og Hustrus Fond for the research stay at the University of Cambridge
 
 Received Scholarship from Otto Mønsteds Fond  for the research stay at the University of Cambridge
