@@ -17,7 +17,7 @@ title: "Opensource"
 ## HosTaGe
 
 
-![HosTaGe](https://github.com/sastry17/HosTaGe-Wiki/raw/master/gif/alert.gif)
+![HosTaGe](https://github.com/sastry17/HosTaGe-Wiki/raw/master/gif/alert.gif) ![Services](https://github.com/sastry17/HosTaGe-Wiki/raw/master/gif/services.gif)
 
 
 
