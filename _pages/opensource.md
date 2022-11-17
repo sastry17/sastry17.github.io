@@ -17,8 +17,7 @@ title: "Opensource"
 ## HosTaGe
 
 
-![HosTaGe](https://github.com/sastry17/HosTaGe-Wiki/raw/master/gif/alert.gif) ![Services](https://github.com/sastry17/HosTaGe-Wiki/raw/master/gif/services.gif)
-
+![HosTaGe](https://github.com/sastry17/HosTaGe-Wiki/raw/master/gif/alert.gif) 
 
 
 [HosTaGe](https://aau-network-security.github.io/HosTaGe/) - a mobile low-interaction honeypot based on Android
@@ -29,3 +28,4 @@ title: "Opensource"
 [Gist-GSoC2021](https://gist.github.com/zafodB/4ccc069531a120ceb26761c90a2b8bd2)
 [Gist-GSoC2020](https://gist.github.com/irinil/fc48872704ec7414c4035e9f7297e9d9)
 
+![Services](https://github.com/sastry17/HosTaGe-Wiki/raw/master/gif/services.gif)
