@@ -23,5 +23,5 @@ My Ph.D. is funded by [COM<sup>3</sup>](https://northsearegion.eu/com-3/), an In
 
 **13-09-2022** Final Submission to [GSoC2022](https://summerofcode.withgoogle.com/programs/2022/projects/Fy1BiON5) is complete - [RIoTPot](https://ricyaben.github.io/blog/projects/gsoc_2022_riotpot/) (A Shapeshifting honeypot) 
 
-**02-09-2022** Our paper "Interaction Matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots" is accepted at **ACSAC 2022**
+**02-09-2022** Our paper "Interaction Matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots" is accepted at [ACSAC 2022](https://www.acsac.org/2022/program/papers/)
 
