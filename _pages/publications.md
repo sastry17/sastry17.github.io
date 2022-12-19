@@ -5,6 +5,10 @@ title: "Publications"
 
 \[2022\]
 
+[Gotta catch'em all: a Multistage Framework for honeypot fingerprinting.(2021)](https://arxiv.org/abs/2109.10652)
+S Srinivasa, JM Pedersen, E Vasilomanolakis
+ACM DTRAP Dec 2022
+
 [Interaction matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots](https://www.acsac.org/2022/program/papers/)
 S Srinivasa, JM Pedersen, E Vasilomanolakis
 ACM ACSAC 2022 (Contact me for pre-print)
