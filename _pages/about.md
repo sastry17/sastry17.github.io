@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shreyas Srinivasa"
+title: "Shreyas Srinivasa, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-Hi! I am a Ph.D. Fellow at the [Cybersecurity Research Group](https://www.cyber.aau.dk/research/) at Aalborg University, Denmark. My topics of interest include Cyber Deception, Threat Intelligence, and Internet Security Measurements. I am supervised by [Dr. Jens Myrup Pedersen](https://vbn.aau.dk/en/persons/107697) and [Dr. Emmanouil Vasilomanolakis](https://mvasiloma.com/). 
+Hi! I am a Security Researcher at the [Cybersecurity Research Group](https://www.cyber.aau.dk/research/) at Aalborg University, Denmark. 
+
+I completed my Ph.D. from Aalborg University, Denmark in June 2023. My topics of interest include Cyber Deception, Cyber Threat Intelligence (CTI), and Internet Security Measurements. I am supervised by [Dr. Jens Myrup Pedersen](https://vbn.aau.dk/en/persons/107697) and [Dr. Emmanouil Vasilomanolakis](https://mvasiloma.com/). 
 
 I work primarily with honeypots to gather the threat landscape and understand attacker behavior. Other than honeypots, I periodically scan the Internet to find gaps in the deployment and configuration of systems. I believe that most security incidents are caused either due to improper security testing or misconfigured deployments. My current interest revolves around **AI-based Threat Intelligence** where I try to apply AI methodologies to find relationships between threats and threat to find patterns in attack behavior sourced from large honeypot datasets. I also work on developing/studying **counter cyber-deception techniques** to understand how malware evade deception-based environments. 
 
@@ -20,6 +22,8 @@ I also try to contribute to [opensource-projects](https://sastry17.github.io/ope
 My Ph.D. is funded by [COM<sup>3</sup>](https://northsearegion.eu/com-3/), an Interreg project supported by the North Sea Programme of the European Regional Development Fund of the European Union.
 
 ## News
+
+**24-06-2023** Our paper "An Analysis of War Impact on Ukrainian Critical Infrastructure through Network Measurements" was accepted and presented at the [Network Traffic Measurement and Analysis Conference (TMA 2023)](https://tma.ifip.org/2023/accepted-papers/) 
 
 **13-09-2022** Final Submission to [GSoC2022](https://summerofcode.withgoogle.com/programs/2022/projects/Fy1BiON5) is complete - [RIoTPot](https://ricyaben.github.io/blog/projects/gsoc_2022_riotpot/) (A Shapeshifting honeypot) 
 
