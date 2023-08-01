@@ -3,6 +3,15 @@ permalink: publications/
 title: "Publications"
 ---
 
+\[2023\]
+
+[An Analysis of War Impact on Ukrainian Critical Infrastructure through Network Measurements](https://backend.orbit.dtu.dk/ws/portalfiles/portal/325169845/TMA2023.pdf)
+Singla R., Srinivasa S., Reddy, N., Pedersen, J. M., Vasilomanolakis, E., & Bettati, R.
+In Proceedings of Network Traffic Measurement and Analysis Conference 2023 IFIP
+
+
+
+
 \[2022\]
 
 [Gotta catch'em all: a Multistage Framework for honeypot fingerprinting.(2021)](https://arxiv.org/abs/2109.10652)
